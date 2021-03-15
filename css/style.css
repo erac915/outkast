@@ -1,0 +1,85 @@
+
+/*-------
+
+GLOBAL
+
+--------*/
+
+* {
+    margin:0;
+    padding:0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+  }
+  
+  html, body {
+    height: 100%;
+    line-height: 1;
+    background: url(../img/outkast.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  ol, ul {
+    list-style: none;
+  }
+
+  /*-------
+
+Container
+
+--------*/
+
+.ok-contain{
+  margin: 40px auto 50px auto;
+  border-radius: 10px;
+  background-color: rgba(51, 170, 51, .4) ;
+  width: 800px;
+  height: 800px;
+
+}
+
+/*-------
+
+HEADER
+
+--------*/
+
+header {
+    min-height: 200px;
+    /* background-color: rgb(23, 34, 12); */
+    border-radius: 10px;
+
+}
+
+/*-------
+
+ROW CSS - BOX 
+
+--------*/
+
+
+.site-row{
+    
+
+}
+
+/*-------
+
+MAIN COLUMN CSS
+
+--------*/
+
+.site-col{
+
+}
+
+/*-------
+
+FOOTER
+
+--------*/

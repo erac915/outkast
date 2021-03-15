@@ -1,0 +1,40 @@
+
+
+* {
+	box-sizing(border-box);
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1rem;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: bottom;
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .card {
+    flex: 0 1 24%;
+    background-color:aqua;
+	margin: 4em auto;
+	width: 90%;
+	max-width: 496px;
+	border-radius: 10px;
+   
+} 
+p {
+    color: burlywood;
+	font-size: 1rem;
+}
+
+  
